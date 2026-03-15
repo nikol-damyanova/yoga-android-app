@@ -1,11 +1,10 @@
 
-  # Yoga app landing screen
+  # True Pose
 
-  This is a code bundle for Yoga app landing screen. The original project is available at https://www.figma.com/design/44tKOsVJ7Cv6zEsBFurOZd/Yoga-app-landing-screen.
-
-  ## Running the code
-
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
+1.3 Release
+Updated feature:
+- Fast forward through asanas
+- Moved the 'back' button
+- Fixed final screen issue
+- Added L/R asanas
   
